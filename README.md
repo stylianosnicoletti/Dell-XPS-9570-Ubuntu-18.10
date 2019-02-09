@@ -28,8 +28,11 @@ All information taken from:
 https://www.ubuntu.com/download/desktop
 
 ### Step 2: Run tweak script
-After installation is fully complete. Open a terminal, go into the script's folder and run the following command:
+After installation is fully complete. Open a terminal, go into the script's folder and run the following commands:
 ```shell
 chmod +x xps_9570_ubuntu_tweak.sh
+```
+```shell
+sudo ./xps_9570_ubuntu_tweak.sh
 ```
 
