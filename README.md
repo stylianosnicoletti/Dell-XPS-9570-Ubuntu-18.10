@@ -7,3 +7,19 @@ All information taken from:
 - [Atheros wifi card fix](https://ubuntuforums.org/showthread.php?t=2323812&page=2)
 - [Respin script and info](http://linuxiumcomau.blogspot.com/)
 - [dell-xps-9570-ubuntu-respin](https://github.com/JackHack96/dell-xps-9570-ubuntu-respin)
+
+### What Works
+
+ - ✔️ Atheros Wifi
+ - ✔️ Audio
+ - ✔️ Audio on HDMI
+ - ✔️ HDMI ( even on lid closed )
+ - ✔️ Nvidia/Intel graphic cards switch
+ - ✔️ Keyboard backlight
+ - ✔️ Display brightness
+ - ✔️ Sleep/wake on Intel
+ - ✔️ Sleep/wake on nVidia
+
+### What Doesn't Work
+
+ - ❌ Goodix Fingerprint sensor
