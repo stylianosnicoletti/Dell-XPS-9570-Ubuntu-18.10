@@ -29,7 +29,7 @@ All information taken from:
 ### Step 1: Download and install Ubuntu 18.10 
 https://www.ubuntu.com/download/desktop
 
-### Step 2: Run tweak script
+### Step 2: Run the script
 After installation is fully complete. Open a terminal, go into the script's folder and run the following commands:
 ```shell
 chmod +x xps_9570_ubuntu_tweak.sh
