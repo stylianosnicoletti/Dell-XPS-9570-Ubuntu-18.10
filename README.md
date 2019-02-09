@@ -10,10 +10,11 @@ All information taken from:
 
 ### What Works
 
- - ✔️ Atheros Wifi
+ - ✔️ Wifi
  - ✔️ Audio
- - ✔️ Audio on HDMI
- - ✔️ HDMI ( even on lid closed )
+ - ✔️ HDMI
+ - ✔️ Camera
+ - ✔️ Touch Screen
  - ✔️ Nvidia/Intel graphic cards switch
  - ✔️ Keyboard backlight
  - ✔️ Display brightness
@@ -22,4 +23,4 @@ All information taken from:
 
 ### What Doesn't Work
 
- - ❌ Goodix Fingerprint sensor
+ - ❌ Fingerprint sensor
