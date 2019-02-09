@@ -37,4 +37,5 @@ chmod +x xps_9570_ubuntu_tweak.sh
 ```shell
 sudo ./xps_9570_ubuntu_tweak.sh
 ```
+Reboot you laptop 😎
 
