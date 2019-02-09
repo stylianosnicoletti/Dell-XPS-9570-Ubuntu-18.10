@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# Check if the script is running under Ubuntu 18.10 Bionic Beaver
+# Check if the script is running under Ubuntu 18.10 
 if [ $(lsb_release -c -s) != "cosmic" ]; then
     >&2 echo "This script is made for Ubuntu 18.10!"
     exit 1
