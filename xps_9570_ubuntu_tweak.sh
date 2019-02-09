@@ -8,7 +8,7 @@ fi
 
 # Check if the script is running as root
 if [ "$EUID" -ne 0 ]; then
-    >&2 echo "Please run xps-tweaks as root!"
+    >&2 echo "Please run xps_9570_ubuntu_tweak.sh as root!"
     exit 2
 fi
 
