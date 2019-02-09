@@ -18,8 +18,7 @@ All information taken from:
  - ✔️ Nvidia/Intel graphic cards switch
  - ✔️ Keyboard backlight
  - ✔️ Display brightness
- - ✔️ Sleep/wake on Intel
- - ✔️ Sleep/wake on nVidia
+ - ✔️ Sleep/wake
 
 ### What Doesn't Work
 
