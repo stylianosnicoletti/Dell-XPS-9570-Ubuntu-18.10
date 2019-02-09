@@ -1,6 +1,8 @@
 # Dell-XPS-9570-Ubuntu-18.10
 Script to tweak Ubuntu 18.10 run smooth on Dell XPS 15 9570. 🔧 💻
 
+![DELL XPS 9570](https://github.com/stylianosnicoletti/Dell-XPS-9570-Ubuntu-18.10/xps_pic.png)
+
 All information taken from:
 
 - [tomwwright gist for DELL XPS 15 9560](https://gist.github.com/tomwwright/f88e2ddb344cf99f299935e1312da880)
