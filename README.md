@@ -14,7 +14,7 @@ All information taken from:
  - ✔️ Audio
  - ✔️ HDMI
  - ✔️ Camera
- - ✔️ Touch Screen
+ - ✔️ Touch screen
  - ✔️ Nvidia/Intel graphic cards switch
  - ✔️ Keyboard backlight
  - ✔️ Display brightness
