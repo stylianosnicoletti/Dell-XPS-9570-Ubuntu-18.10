@@ -23,3 +23,6 @@ All information taken from:
 ### What Doesn't Work
 
  - ❌ Fingerprint sensor
+
+### Step 1: Download and install Ubuntu 18.10 
+https://www.ubuntu.com/download/desktop
