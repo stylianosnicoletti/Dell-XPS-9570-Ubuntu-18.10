@@ -1,0 +1,12 @@
+sudo gedit /etc/default/tlp 
+
+...
+# Enable audio power saving for Intel HDA, AC97 devices (timeout in secs).
+# A value of 0 disables, >=1 enables power saving (recommended: 1).
+# Default: <none>
+SOUND_POWER_SAVE_ON_AC=0
+## SOUND_POWER_SAVE_ON_BAT=1 ** Change it to 0 because of cracking sound on headphones
+SOUND_POWER_SAVE_ON_BAT=0
+...
+
+Save and Reboot 😎
